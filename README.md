@@ -65,7 +65,7 @@ A curated list of the best projects, tools, and infrastructure built on Base.
 
 
 # Contributing
-
+ 
 Contributions are welcome.  
 Feel free to open a pull request to add new Base ecosystem projects.
 
