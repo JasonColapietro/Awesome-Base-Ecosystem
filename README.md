@@ -54,3 +54,13 @@ A curated list of the best projects, tools, and infrastructure built on Base.
 
 ---
 
+# Resources
+
+- Official Base Website
+- Base Documentation
+- Base GitHub
+
+---
+
+
+
