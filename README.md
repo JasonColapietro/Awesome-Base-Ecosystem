@@ -34,4 +34,13 @@ A curated list of the best projects, tools, and infrastructure built on Base.
 
 ---
 
+# Wallet
+
+| Project | Description |
+|---------|-------------|
+| Coinbase Wallet | Official self-custody wallet |
+| MetaMask | Popular Ethereum wallet |
+| Rainbow | User-friendly crypto wallet |
+
+---
 
