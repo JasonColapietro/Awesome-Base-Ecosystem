@@ -11,7 +11,7 @@ A curated list of the best projects, tools, and infrastructure built on Base.
 - DEX
 - Bridge
 - Wallet
-
+ 
 ---
 
 # DEX
