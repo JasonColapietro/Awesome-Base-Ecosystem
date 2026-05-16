@@ -24,3 +24,14 @@ A curated list of the best projects, tools, and infrastructure built on Base.
 
 ---
 
+# Bridge
+
+| Project | Description |
+|---------|-------------|
+| Across | Fast cross-chain bridge |
+| Stargate | Unified liquidity bridge |
+| Orbiter Finance | Low-cost Ethereum L2 bridge |
+
+---
+
+
