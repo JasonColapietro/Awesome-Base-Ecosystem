@@ -44,3 +44,13 @@ A curated list of the best projects, tools, and infrastructure built on Base.
 
 ---
 
+# Why Base?
+
+- Fast transactions
+- Low fees
+- Massive ecosystem growth
+- Backed by Coinbase
+- Strong builder community
+
+---
+
