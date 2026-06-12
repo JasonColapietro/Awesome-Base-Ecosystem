@@ -11,6 +11,7 @@ A curated list of the best projects, tools, and infrastructure built on Base.
 - DEX
 - Bridge
 - Wallet
+- AI / Creator Tools
  
 ---
 
@@ -41,6 +42,14 @@ A curated list of the best projects, tools, and infrastructure built on Base.
 | Coinbase Wallet | Official self-custody wallet |
 | MetaMask | Popular Ethereum wallet |
 | Rainbow | User-friendly crypto wallet |
+
+---
+
+# AI / Creator Tools
+
+| Project | Description |
+|---------|-------------|
+| [Suede Labs AI](https://suedeai.ai) | Programmable IP infrastructure for music creators — on-chain IP registration, licensing, and monetization on Base. Clawdbot ($SVID) is a Virtuals ACP agent with x402-gated endpoints enabling AI agents to pay musicians in real time for licensed creative work. |
 
 ---
 
@@ -75,3 +84,4 @@ Feel free to open a pull request to add new Base ecosystem projects.
 
 MIT License
 
+---
